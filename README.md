@@ -56,3 +56,38 @@ Follow the installation instructions provided by MOSEK to install the software o
 
 4. If you decide to purchase a commercial license, contact MOSEK directly through their website for more information on pricing and licensing options.
 
+## License and Contact Info
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You can customize the parameters and use them for your specific control system applications.
+
+If you have any questions or encounter issues, please feel free to [contact me](mailto:niknejad@msu.edu).
+
+Enjoy exploring and using the code!
+
+## Citation
+If you found this page useful for your research, please cite it as:
+
+....
+
+## Results
+
+
+<center>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="N_2_IP.png" alt="Two data-points" style="width: 300px;">
+        <br>
+        <em> Rotary inverted pendulum’s response and control input under the dynamic controller designed
+with N = 2 data points and physics.</em>
+      </td>
+      <td align="center">
+        <img src="N_20_IP.png" alt="Twenty data-points" style="width: 300px;">
+        <br>
+        <em>Rotary inverted pendulum’s response and control input under the dynamic controller designed
+with N = 20 data points and physics.</em>
+      </td>
+    </tr>
+  </table>
+</center>
+
