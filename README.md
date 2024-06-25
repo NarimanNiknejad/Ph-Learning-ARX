@@ -27,6 +27,6 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/NarimanNiknejad/Physics-informed_Stabilizing_Controller_Learning_ARX.git
-cd SODA-RRT
+cd Physics-informed_Stabilizing_Controller_Learning_ARX
 ```
 
