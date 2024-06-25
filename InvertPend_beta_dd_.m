@@ -2,7 +2,7 @@ clc;
 clear;
 close all;
 
-%% Discrete-time model alpha_2
+%% Discrete-time model beta_2
 
 syms alpha_2 beta_2 alpha_1 beta_1 alpha beta tau alpha_dd
 syms J_r m_p L_r L_p C_r g del
