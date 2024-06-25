@@ -23,7 +23,7 @@ This project develops physics-informed data-driven methods for designing a stabl
 
 ### Cloning the Project
 
-First, clone the repository to your local machine:
+Clone the repository to your local machine using:
 
 ```bash
 git clone https://github.com/NarimanNiknejad/Physics-informed_Stabilizing_Controller_Learning_ARX.git
