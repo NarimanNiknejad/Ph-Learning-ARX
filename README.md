@@ -30,3 +30,29 @@ git clone https://github.com/NarimanNiknejad/Physics-informed_Stabilizing_Contro
 cd Physics-informed_Stabilizing_Controller_Learning_ARX
 ```
 
+## Obtaining and Licensing MOSEK 
+
+MOSEK is a powerful optimization solver that can be used with MATLAB to solve various mathematical optimization problems. To get started with MOSEK for MATLAB, follow these steps:
+
+### 1. Download MOSEK
+
+1. Visit the MOSEK download page: [MOSEK Download](https://www.mosek.com/downloads/).
+
+2. Select the appropriate version of MOSEK for your operating system. MOSEK provides versions for Windows, Linux, and macOS.
+
+3. Download the MOSEK installation package.
+
+### 2. Install MOSEK
+
+Follow the installation instructions provided by MOSEK to install the software on your system.
+
+### 3. Obtain a License
+
+1. MOSEK requires a license to use. You can request a free academic license, a trial license, or purchase a commercial license.
+
+2. To request an academic license or a trial license, visit the MOSEK License Request page.
+
+3. Follow the steps on the license request page to obtain your license file. This file will be used to activate MOSEK on your machine.
+
+4. If you decide to purchase a commercial license, contact MOSEK directly through their website for more information on pricing and licensing options.
+
