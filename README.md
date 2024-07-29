@@ -26,8 +26,8 @@ This project develops physics-informed data-driven methods for verifying the sta
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/NarimanNiknejad/Physics-informed_Stabilizing_Controller_Learning_ARX.git
-cd Physics-informed_Stabilizing_Controller_Learning_ARX
+git https://github.com/NarimanNiknejad/Ph-Learning-ARX.git
+cd Ph-Learning-ARX
 ```
 
 ## Obtaining and Licensing MOSEK 
