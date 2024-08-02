@@ -1,8 +1,5 @@
 # Physics-informed Learning of Stabilizing Controllers using Noisy Input-Output ARX Models
 
-
-## Installation
-
 ### Cloning the Project
 
 Clone the repository to your local machine using:
