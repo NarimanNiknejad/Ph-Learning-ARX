@@ -1,21 +1,5 @@
 # Physics-informed Learning of Stabilizing Controllers using Noisy Input-Output ARX Models
 
-<center>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="overlap.png" alt="overlap of data and physics in a scalar system" style="width: 300px;">
-        <br>
-        <em>The overlap of data and physics information sets in a scalar system.</em>
-      </td>
-      <td align="center">
-        <img src="rotary_pendulum.png" alt="schematic of a rotary inverted pendulum system" style="width: 300px;">
-        <br>
-        <em>The schematic of a rotary inverted pendulum system.</em>
-      </td>
-    </tr>
-  </table>
-</center>
 
 ## Installation
 
@@ -53,6 +37,24 @@ Follow the installation instructions provided by MOSEK to install the software o
 3. Follow the steps on the license request page to obtain your license file. This file will be used to activate MOSEK on your machine.
 
 4. If you decide to purchase a commercial license, contact MOSEK directly through their website for more information on pricing and licensing options.
+
+   <center>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="overlap.png" alt="overlap of data and physics in a scalar system" style="width: 300px;">
+        <br>
+        <em>The overlap of data and physics information sets in a scalar system.</em>
+      </td>
+      <td align="center">
+        <img src="rotary_pendulum.png" alt="schematic of a rotary inverted pendulum system" style="width: 300px;">
+        <br>
+        <em>The schematic of a rotary inverted pendulum system.</em>
+      </td>
+    </tr>
+  </table>
+</center>
+
 
 ## License and Contact Info
 
