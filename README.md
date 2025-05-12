@@ -39,7 +39,7 @@ Follow the installation instructions provided by MOSEK to install the software o
   <table>
     <tr>
       <td align="center">
-        <img src="overlap.png" alt="overlap of data and physics in a scalar system" style="width: 300px;">
+        <img src="overlap_.png" alt="overlap of data and physics in a scalar system" style="width: 300px;">
         <br>
         <em>The overlap of data and physics information sets in a scalar system.</em>
       </td>
@@ -67,25 +67,4 @@ If you found this page useful for your research, please cite it as:
 Accepted by IEEE Open Journal of Control Systems and waiting for the citation information...
 ....
 
-## Results
-
-
-<center>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="N_2_IP.png" alt="Two data-points" style="width: 300px;">
-        <br>
-        <em> Rotary inverted pendulum’s response and control input under the dynamic controller designed
-with N = 2 data points and physics.</em>
-      </td>
-      <td align="center">
-        <img src="N_20_IP.png" alt="Twenty data-points" style="width: 300px;">
-        <br>
-        <em>Rotary inverted pendulum’s response and control input under the dynamic controller designed
-with N = 20 data points and physics.</em>
-      </td>
-    </tr>
-  </table>
-</center>
 
