@@ -41,7 +41,7 @@ Follow the installation instructions provided by MOSEK to install the software o
       <td align="center">
         <img src="overlap_.png" alt="overlap of data and physics in a scalar system" style="width: 300px;">
         <br>
-        <em>The overlap of data and physics information sets in a scalar system.</em>
+        <em>The overlap of data and initial prior knowledge sets in a scalar system.</em>
       </td>
       <td align="center">
         <img src="rotary_pendulum.png" alt="schematic of a rotary inverted pendulum system" style="width: 300px;">
