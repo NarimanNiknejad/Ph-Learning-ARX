@@ -1,4 +1,4 @@
-# Physics-informed Learning of Stabilizing Controllers using Noisy Input-Output ARX Models
+# Online Learning of Stabilizing Controllers using Noisy Input-Output Data and Prior Knowledge
 
 ### Cloning the Project
 
@@ -64,7 +64,7 @@ Enjoy exploring and using the code!
 ## Citation
 If you found this page useful for your research, please cite it as:
 
-Submitted to IEEE TNNLS
+Accepted by IEEE Open Journal of Control Systems and waiting for the citation information...
 ....
 
 ## Results
